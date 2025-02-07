@@ -44,7 +44,8 @@ def sensoresdecor2():
     return sensordecorEs(), sensordecorMeio(), sensordecorDir()
 
 
-# SENSORES DE SEGUIR LINHA
+# SENSORES DE SEGUIR LINHAhhh
+
 # cor do sensor da esquerda do meio
 def CorEsquerdaVendra():
     return sensorLinha.read(2)[1]
